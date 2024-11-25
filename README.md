@@ -12,6 +12,10 @@ This template equips you with a foundational React application integrated with A
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
+## Live Demo
+
+You can view the live application here: [AWS Amplify React+Vite Starter Template](https://main.d3kloj6bzmhjly.amplifyapp.com/)
+
 ## Deploying to AWS
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
